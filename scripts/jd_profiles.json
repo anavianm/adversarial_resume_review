@@ -1,0 +1,34 @@
+{
+  "Software Engineer (backend/platform)": {
+    "required": ["python", "java", "distributed systems", "microservices", "rest api", "sql", "kubernetes", "docker", "ci/cd", "cloud", "system design", "testing"],
+    "preferred": ["go", "rust", "terraform", "aws", "azure", "gcp", "observability", "kafka", "mentoring", "agile"]
+  },
+  "Data Engineer": {
+    "required": ["python", "sql", "etl", "data pipeline", "spark", "airflow", "data warehouse", "cloud"],
+    "preferred": ["snowflake", "databricks", "dbt", "kafka", "scala", "data modeling", "terraform", "testing"]
+  },
+  "DevOps / SRE": {
+    "required": ["linux", "kubernetes", "docker", "terraform", "ci/cd", "cloud", "observability", "incident"],
+    "preferred": ["helm", "argocd", "prometheus", "grafana", "python", "go", "slo", "on-call", "security"]
+  },
+  "Embedded / Firmware Engineer": {
+    "required": ["c", "c++", "embedded", "microcontroller", "rtos", "debugging", "hardware"],
+    "preferred": ["arm", "spi", "i2c", "uart", "can", "python", "linux", "oscilloscope", "testing"]
+  },
+  "Electrical / Power Systems Engineer": {
+    "required": ["power systems", "distribution", "load flow", "protection", "grid", "modeling"],
+    "preferred": ["cyme", "pss/e", "etap", "synergi", "aspen", "scada", "der", "python", "pe license"]
+  },
+  "Mechanical Engineer": {
+    "required": ["solidworks", "cad", "gd&t", "fea", "design", "testing", "manufacturing"],
+    "preferred": ["ansys", "matlab", "python", "dfm", "prototyping", "six sigma", "creo", "cfd"]
+  },
+  "Civil / Structural Engineer": {
+    "required": ["structural", "design", "autocad", "analysis", "codes", "drawings"],
+    "preferred": ["revit", "sap2000", "etabs", "civil 3d", "pe license", "eit", "project management"]
+  },
+  "Bilingual Engineer (foreign-HQ subsidiary)": {
+    "required": ["bilingual", "api", "sql", "ci/cd", "cloud", "python"],
+    "preferred": ["business-level", "jlpt", "n1", "native-level", "presenting", "mentoring", "azure", "aws"]
+  }
+}
